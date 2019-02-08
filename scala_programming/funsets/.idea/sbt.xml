@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customVMEnabled" value="true" />
+    <option name="customVMPath" value="$USER_HOME$/.jabba/jdk/default" />
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../forcomp" />
+        <option name="modules">
+          <set>
+            <option value="/home/henry/share/coursera/forcomp" />
+            <option value="/home/henry/share/coursera/forcomp/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="/home/henry/share/coursera/funsets" />
+            <option value="/home/henry/share/coursera/funsets/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../objsets" />
+        <option name="modules">
+          <set>
+            <option value="/home/henry/share/coursera/objsets" />
+            <option value="/home/henry/share/coursera/objsets/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+      </SbtProjectSettings>
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../patmat" />
+        <option name="modules">
+          <set>
+            <option value="/home/henry/share/coursera/patmat" />
+            <option value="/home/henry/share/coursera/patmat/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.17" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>

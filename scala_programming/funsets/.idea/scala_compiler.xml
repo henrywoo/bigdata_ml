@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="forcomp_7607,funsets_3606,objsets_5225,patmat_2830" />
+    <profile name="sbt 2" modules="progfun1-forcomp,progfun1-funsets,progfun1-objsets,progfun1-patmat">
+      <option name="deprecationWarnings" value="true" />
+    </profile>
+  </component>
+</project>
